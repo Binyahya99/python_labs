@@ -1,6 +1,6 @@
-# Python Labs
+# PYTHON_LABS
 
-**Student Name:**
+**ALI YAHYA ALI:**
 
 ## Description of Completed Exercises
 
